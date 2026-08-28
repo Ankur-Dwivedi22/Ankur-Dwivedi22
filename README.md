@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ankur Dwivedi  
 
+💻 Software Engineering @ Cisco  
 🎓 B.Tech CSE @ IIIT Bhagalpur (Gold Medalist 🥇)  
-💻 Software Engineering Intern @ Cisco  
 🚀 Passionate about Backend, Systems, and Scalable Applications  
 
 
